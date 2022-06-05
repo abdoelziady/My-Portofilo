@@ -575,18 +575,19 @@ body.light hr.separator {
 {
   margin-left: 20px;
 } 
-@media (max-width: 576px) {
+@media (max-width: 576px) 
+{
   .home .home-details .btn_p_Home  a
   {
   
-      height: 35px ;
+      height: 35px !important;
       line-height: 35px;
       font-size: 11px;
-      padding: 0 20px;
+      padding: 0 20px !important;
   }
 	.home .home-details .btn_p_Home .btn-about
 {
-  margin-left: 16px;
+  margin-left: 16px  !important;
 } 
 }
 .home ul.social {
