@@ -537,7 +537,7 @@ body.light hr.separator {
 
 .home .home-details h1 {
   font-size: 45px;
-  line-height: 45px;
+  line-height: 50px !important;
   font-weight: 700;
   margin: 18px 0 10px;
 }
@@ -573,7 +573,7 @@ body.light hr.separator {
 }
 .home .home-details .btn_p_Home .btn-about
 {
-  margin-left: 20px;
+  margin-left: 15px;
 } 
 .home ul.social {
   margin-left: -5px;
